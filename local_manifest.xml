@@ -7,7 +7,7 @@
    <!-- Trees -->
   
   <project path="device/xiaomi/ginkgo" name="agathasenpai/device_xiaomi_ginkgo" remote="mit" revision="spark" clone-depth="1" />
-  <project path="vendor/xiaomi/ginkgo" name="agathasenpai/vendor_xiaomi_ginkgo" remote="mit" revision="thirteen" clone-depth="1" />
+  <project path="vendor/xiaomi/ginkgo" name="garry-rogov/android_vendor_xiaomi_ginkgo" remote="mit" revision="13" clone-depth="1" />
   <project path="kernel/xiaomi/ginkgo" name="siimsek/Lightning-Kernel" remote="mit" revision="twelve" clone-depth="1" />
   <project path="vendor/miuicamera" name="agathasenpai/android_vendor_miuicamera" remote="mit" revision="thirteen" clone-depth="1" />
 
