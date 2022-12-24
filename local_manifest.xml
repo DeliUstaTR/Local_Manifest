@@ -7,13 +7,13 @@
    <!-- Trees -->
   
   <project path="device/xiaomi/ginkgo" name="msalihpelit/android_device_xiaomi_ginkgo" remote="mit" revision="13.0" clone-depth="1" />
-  <project path="vendor/xiaomi/ginkgo" name="garry-rogov/android_vendor_xiaomi_ginkgo" remote="mit" revision="13" clone-depth="1" />
+  <project path="vendor/xiaomi/ginkgo" name="android/vendor-blobs/vendor_xiaomi_ginkgo" remote="gitlab" revision="thirteen" clone-depth="1" />
   <project path="kernel/xiaomi/ginkgo" name="crdroidandroid/android_kernel_xiaomi_ginkgo" remote="mit" revision="13.0" clone-depth="1" />
   <project path="vendor/miuicamera" name="ArrowOS-Devices/android_vendor_xiaomi_MiuiCamera" remote="mit" revision="10.0" clone-depth="1" />
 
   <!-- (Clang) -->
   
-  <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="ImSurajxD/clang-r450784d" remote="gitlab" revision="master" clone-depth="1" />
+  <project path="prebuilts/clang/host/linux-x86/clang-r475365" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r475365" remote="gitlab" revision="13.0" clone-depth="1" />
 
   <!-- Toolchain -->
 
