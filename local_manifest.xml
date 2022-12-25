@@ -13,7 +13,7 @@
 
   <!-- (Clang) -->
   
-  <project path="prebuilts/clang/host/linux-x86/clang-r437112" name="rinto02/prebuilts_clang_host_linux-x86_clang-r437112" remote="mit" revision="master" clone-depth="1" />
+  <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="ImSurajxD/clang-r450784d" remote="gitlab" revision="master" clone-depth="1" />
 
   <!-- Toolchain -->
 
