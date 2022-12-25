@@ -18,7 +18,3 @@
   <!-- Toolchain -->
 
   <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="mit" revision="master" clone-depth="1" />
-   
-  <remove-project name="hardware_xiaomi" />
-  <project path="hardware/xiaomi" name="msalihpelit/hardware_xiaomi" remote="mit" revision="pyro" clone-depth="1" />
- </manifest>
