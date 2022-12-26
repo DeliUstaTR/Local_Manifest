@@ -3,21 +3,21 @@
   
  <remote name="mit"
            fetch="https://github.com" />
-
+  
    <!-- Trees -->
   
-  <project path="device/xiaomi/ginkgo" name="msalihpelit/device_xiaomi_ginkgo" remote="mit" revision="spark" clone-depth="1" />
-  <project path="vendor/xiaomi/ginkgo" name="msalihpelit/vendor_xiaomi_ginkgo" remote="mit" revision="thirteen" clone-depth="1" />
-  <project path="kernel/xiaomi/ginkgo" name="msalihpelit/kernel_xiaomi_ginkgo" remote="mit" revision="thirteen" clone-depth="1" />
-  <project path="vendor/miuicamera" name="garry-rogov/android_vendor_xiaomi_miuicamera" remote="mit" revision="13" clone-depth="1" />
-
+  <project path="device/xiaomi/ginkgo" name="msalihpelit/device_xiaomi_ginkgo" remote="mit" revision="spark" />
+  <project path="vendor/xiaomi/ginkgo" name="msalihpelit/vendor_xiaomi_ginkgo" remote="mit" revision="thirteen" />
+  <project path="kernel/xiaomi/ginkgo" name="msalihpelit/kernel_xiaomi_ginkgo" remote="mit" revision="thirteen" />
+  <project path="vendor/miuicamera" name="garry-rogov/android_vendor_xiaomi_miuicamera" remote="mit" revision="13" />
+  
   <!-- (Clang) -->
   
-  <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="ImSurajxD/clang-r450784d" remote="gitlab" revision="master" clone-depth="1" />
-
-  <!-- Toolchain -->
-
-  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="mit" revision="master" clone-depth="1" />
+  <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="ImSurajxD/clang-r450784d" remote="gitlab" revision="master" />
   
-  <manifest>
+  <!-- Toolchain -->
+  
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="mit" revision="master" />
+  
+</manifest>
   
